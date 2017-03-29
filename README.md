@@ -1,6 +1,6 @@
 # KV
 
-**TODO: Add description**
+Elixir tutorial project (http://elixir-lang.org/getting-started/)
 
 ## Installation
 
